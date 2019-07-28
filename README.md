@@ -3,7 +3,6 @@ Quick and easy way to render a simple scoreboard graphic. Includes modifiable sp
 
 Originally created for a Teamfight Tactics tournament for my friend. He was hosting the tournament, which made it difficulty to also simultaneously update a score graphic, so I designed him a simple script to do it quickly and esaily.
 
-![Sample Image](https://raw.githubusercontent.com/andrewtong0/scoreboardRenderer/master/publish.jpg)
 
 ### Dependencies
 - Pillow (PIL fork)
